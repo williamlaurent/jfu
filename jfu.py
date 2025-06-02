@@ -15,7 +15,7 @@ TARGETS_FILE = "list.txt"
 BASE_PAYLOAD = "ex.php"
 FIELD_NAME = "files"
 OUTPUT_FILE = "hasil.txt"
-EXTENSIONS = ["php5", "php7", "php56", "phar", "phtml", "php2", "phps"]
+EXTENSIONS = ["php5", "php7", "php56", "phar", "phtml", "php2", "phps", "php"]
 
 def gen_random_filename(ext):
     name = ''.join(random.choices(string.ascii_letters + string.digits, k=8))
