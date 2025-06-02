@@ -1,2 +1,2 @@
-http://redacted.com/server/php/
-https://redacted.com/adm/server/php/
+http://redacted.com/server/php/files/[random_name].extension
+https://redacted.com/adm/server/php/files/[random_name].extension
