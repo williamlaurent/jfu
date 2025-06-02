@@ -1,0 +1,2 @@
+http://redacted.com/server/php/
+https://redacted.com/adm/server/php/
